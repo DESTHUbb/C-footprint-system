@@ -1,5 +1,7 @@
 # P-B Footprint Reversal System Study
 
+![Horus_Footprint2](https://user-images.githubusercontent.com/90658763/184605110-d306f3e5-3d21-49f5-b031-b58aaddf8408.gif)
+
 Trading the stock market requires that you have an edge over your competition; and in my experience, being able to understand and read order flow gives traders a HUGE edge. The biggest drawback with order flow trading is the heavy strain and stress induced from deciphering the constant flow of the market. To reduce that stress and add some HP back to your life, I created an advanced custom study that uses 4 condition triggers to help validate your trades, improve entries and exits, and to spot major reversals.
 
 
